@@ -29,6 +29,23 @@ Currently, it includes:
 
 </details>
 
+<summary> Basic resursion Problems</summary>
+
+- Pring from 0 to 3
+- Printing name n times
+- Printing from 1 to N
+- Printing from N to 1
+- Printing from 1 to N (dont use i+1)
+- Printing from N to 1 (dont use i-1)
+- Sum of 1 to N numbers
+- Factorial of a number
+- Reversing an array
+- Check whether a string is palindrome
+- Fibonacci number
+- Tower of hanoi
+
+</details>
+
 
 ## How to use
 
