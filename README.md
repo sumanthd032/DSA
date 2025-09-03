@@ -28,7 +28,7 @@ Currently, it includes:
 - Pattern 10
 
 </details>
-
+<details>
 <summary> Basic resursion Problems</summary>
 
 - Pring from 0 to 3
