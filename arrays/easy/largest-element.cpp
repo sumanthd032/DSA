@@ -3,6 +3,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// bruteforce
+int largest(vector<int>& arr){
+    sort(arr.begin(), arr.end());
+    return(arr[arr.size()-1]);
+}
+
+// optimal
 int largest(vector<int>& arr){
     int max = arr[0];
     for(int i=0; i<arr.size(); i++){
